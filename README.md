@@ -4,10 +4,11 @@
 A command-line app built with Python to manage car inventory for a dealership.
 
 ## FEATURES:
-1.  **Full CRUD**: Add, View, Update, Delete cars
-2.  **Reports**: Data auto-saved to `report.csv`
-3.  **Search**: Find cars in inventory
-4.  **Data Safety**: File handling, no data loss
+1. **Full CRUD**: Add, View, Update, Delete cars
+2. **Search**: By Model AND by Color 
+3. **Reports**: Total inventory value + Most expensive car
+4. **Export**: Save report to `Benz_garage_report.csv` for Excel
+5. **Data Safety**: Auto-save to `Benz_garage.csv`
 
 ## HOW TO RUN:
 1.  Make sure you have Python 3 installed
