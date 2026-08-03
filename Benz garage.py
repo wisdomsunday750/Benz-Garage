@@ -189,5 +189,3 @@ while True:
     break
   else:
     print("invalid choice, enter 1-9")
-       
-     
