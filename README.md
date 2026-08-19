@@ -18,4 +18,4 @@ A command-line app built with Python to manage car inventory for a dealership.
 Python, File Handling, CSV
 
 ## BUILT BY: 
-[WISDOM SUNDAY] - @wisdomcodess | Learning Python in public 💪
+[WISDOM SUNDAY] - @wisdomnexx | Learning Python in public 💪
